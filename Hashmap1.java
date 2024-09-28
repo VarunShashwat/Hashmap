@@ -12,6 +12,6 @@ class Hashmap1{
             tm.put(key,value);
         }
 
-        System.out.println("Sorted orfer of kry value pair "+tm);  
+        System.out.println("Sorted order of key value pair "+tm);  
       }
 }
